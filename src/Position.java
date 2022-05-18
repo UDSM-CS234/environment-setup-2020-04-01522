@@ -8,12 +8,5 @@ public class Position {
         double x;
         x=(0.5*((g*t*t))+(vi*t)+(xi));
         System.out.println( x +"m");
-
-
-
     }
-
-
-
-
 }
